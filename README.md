@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Try to remain calm.
+
+Alien parasite cleverly disguised as a water tower. Someday they will magically disappear. Until then, we will have to fight. Or run.
 
 You can use the [editor on GitHub](https://github.com/matthewnewell/terribletick/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
