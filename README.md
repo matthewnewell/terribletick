@@ -1,8 +1,8 @@
-## Try to remain calm<sup>1</sup>.
+## Try to remain calm.<sup>panic</sup>
 
 Someday they will magically disappear. Until then, we will have to fight. Or run.
 
-1. Tagline for a [cautionary tale](https://www.imdb.com/title/tt0114069/).
+panic: Tagline for a [cautionary tale](https://www.imdb.com/title/tt0114069/).
 
 You can use the [editor on GitHub](https://github.com/matthewnewell/terribletick/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
