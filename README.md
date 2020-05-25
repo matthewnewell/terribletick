@@ -1,6 +1,8 @@
-## Try to remain calm.
+## Try to remain calm[^*]
 
-Alien parasite cleverly disguised as a water tower. Someday they will magically disappear. Until then, we will have to fight. Or run.
+Someday they will magically disappear. Until then, we will have to fight. Or run.
+
+[^*]: Tagline for a [cautionary tale](https://www.imdb.com/title/tt0114069/).
 
 You can use the [editor on GitHub](https://github.com/matthewnewell/terribletick/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
