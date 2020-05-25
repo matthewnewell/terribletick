@@ -2,5 +2,5 @@
 
 ![run!](/media/TickReference1.png)
 
-Someday they will magically disappear. Until then, we fight. Or run.
+Until then, we fight. Or run.
 
