@@ -2,5 +2,5 @@
 
 Someday they will magically disappear. Until then, we fight. Or run.
 
-![run!](https://github.com/matthewnewell/terribletick/media/TickReference1.png)
+![run!](/media/TickReference1.png)
 
