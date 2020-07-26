@@ -2,7 +2,7 @@
 
 ![Terrible Tick, Redondo Beach California, 1997](/media/Tick-low.png)
 
-I have four years experience developing digital visual effects for feature films ([Digital Domain](http://www.digitaldomain.com) and [Boss Film Studios](http://www.vfxhq.com/houses/boss.html)). This was a long time ago. I worked with some amazing people including three VFX academy award winners [Richard Edlund](https://www.imdb.com/name/nm0249430/?ref_=fn_al_nm_1), [Kevin Mack](https://www.imdb.com/name/nm0533034/?ref_=fn_al_nm_2), and [Jim Rygiel](https://www.imdb.com/name/nm0753277/?ref_=fn_al_nm_1). 
+I have four years experience developing digital visual effects for feature films ([Digital Domain](http://www.digitaldomain.com) and [Boss Film Studios](http://www.vfxhq.com/houses/boss.html)). That was a long time ago. I worked with some amazing people including three VFX academy award winners [Richard Edlund](https://www.imdb.com/name/nm0249430/?ref_=fn_al_nm_1), [Kevin Mack](https://www.imdb.com/name/nm0533034/?ref_=fn_al_nm_2), and [Jim Rygiel](https://www.imdb.com/name/nm0753277/?ref_=fn_al_nm_1). 
 
 I got to work on some [amazing projects](https://www.imdb.com/name/nm0627816/#visual_effects).
 
@@ -16,7 +16,7 @@ One concept I hope to develop is called *Area of Interest Rapid Visualization (A
 
 On the side I make digital content for [Center Stage Vintage Guitars](https://www.instagram.com/centerstagevintageguitars/). I use their social media feed to develop my skills with DCC apps and to tell stories. Music and vintage gear and the people I meet and jam with have become a wonderful part of my own story. Right up there with family and gardening.
 
-I have been the "suit" for most of my career. My goal is to transition into content creation. This is another reason why I am applying to the Unreal Engine Fellowship. My aspiration is to be both storyteller and content creator. 
+I have been the "suit" for most of my career. My goal is to transition over to the creative side. This is another reason why I am applying to the Unreal Engine Fellowship. My aspiration is to be both storyteller and content creator. 
 
 Terrible Tick (see above photo) is a short piece that I would like to develop with Unreal Egine. The tick an alien parasite (not a water tower) that wakes up, steps over houses, punches holes in roofs, and sucks up people. All seems lost until the tick gets to the cat-lady's house.   
 
