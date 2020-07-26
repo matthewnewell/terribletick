@@ -6,21 +6,24 @@ I have four years developing digital visual effects for feature films ([Digital 
 
 I got to work on some [amazing projects](https://www.imdb.com/name/nm0627816/#visual_effects).
 
-At Boss Films, I ran the "Department of Space and Power" (responsible for data/disk management and CPU processing (render queue)). After [this shot](https://www.youtube.com/watch?v=lAXO8qwlrQ8) closed the company, I joined a startup created by Boss Film's R&D director [Shahril Ibrahim](https://www.imdb.com/name/nm0406567/?ref_=fn_al_nm_1). Our mission was to blend movies and games into new forms of digital entertainment.  We shut the doors when the cost of bandwidth exceeded the revenue we were making on the people that played our online games.
+At Boss Films, I ran the "Department of Space and Power" (responsible for data/disk management and CPU processing (render queue)). After [this shot](https://www.youtube.com/watch?v=lAXO8qwlrQ8) closed the company, I joined a startup created by Boss Film's R&D director [Shahril Ibrahim](https://www.imdb.com/name/nm0406567/?ref_=fn_al_nm_1). Our mission was to blend movies and games into new forms of digital entertainment.  We shut the doors when the bandwidth cost exceeded the revenue we made on the people that consumed our content.
 
 It was an amazing time to be in VFX. Optical composites and stop motion were still considered superior to their digital counterparts. Pixar was just a software company. And we animated [Sil](https://beforesandafters.com/2020/07/13/when-motion-capture-puppets-were-all-the-rage/), cloned [Lindsay Lohan](https://apicms.thestar.com.my/uploads/images/2020/07/21/789312.jpg), and took a [virus airborne](https://www.youtube.com/watch?v=Wy-w1-g7OvY).
 
 I transitioned to the defense industry after the dot-com bubble popped in 2000. For the last several years I have been working on training systems for the [V-22 Osprey](https://www.raytheonintelligenceandspace.com/capabilities/products/v-22). My job is to help replace legacy training systems with Unreal-Engine based simulations. This paradigm is an absolute game-changer for the United States Military. We can now quickly make realistic training applications that are playable anytime and anywhere and on low cost COTS hardware. We think this will be a high growth area for our company. 
 
+One concept I hope to develop at my work is called (ARVR). The idea is to rapidly develop mutiplayer worlds representative of first responder threat situations. Stakeholders would then use the synthetic world for mission planning, rehearsal, and implementation. Virtual world collaboration is not a new concept for our customers. What makes my idea unique is that I would like to leverage the UE game and cinimea pipelines to develop these situations quickly enough so that they may be usable with in minutes of incident start.   
+
+On the side I make digital content for [Center Stage Vintage Guitars](https://www.instagram.com/centerstagevintageguitars/). I use their social media feed to develop my skills with DCC apps and to tell stories. Music and vintage gear and the people I meet and jam with has become a wonderful part of my own story. Right up there with family and gardening.
+
 I have been the "suit" for most of my career. My goal is to transition into content creation. This is one of the reasons why I am applying to the Unreal Engine Fellowship. My aspiration is to be both storyteller and content creator. 
 
-On the side I do digital content for [Center Stage Vintage Guitars](https://www.instagram.com/centerstagevintageguitars/). I use their social media feed to develop my skills with DCC apps. Music and vintage gear and the people I meet and jam with has become a wonderful part of my own story. Right up there with family and gardening.
+Terrible Tick (see above photo) is a short piece that I would like to develop with Unreal Egine. The tick an alien parasite (not a water tower) that wakes up, steps over houses, punches holes in roofs, and sucks up people. All seems lost until the tick gets to the cat-lady's house.   
 
-Terrible Tick (see above photo) is a short piece that I would like to develop in Unreal if I get accepted into your Fellowship. The tick an alien parasite (not a watertower) that wakes up, steps over houses, punches holes in roofs, and sucks up people. All seems lost until the tick gets to the cat-lady's house.   
-
-Thank you for your software and for offerring this program. 
+Thank you for your software and for offering this program. 
 
 Best,
+
 Matt Newell
 
   
