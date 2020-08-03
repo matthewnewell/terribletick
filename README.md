@@ -18,7 +18,7 @@ On the side I make digital content for [Center Stage Vintage Guitars](https://ww
 
 I have been the "suit" for most of my career. My goal is to transition over to the creative side. This is another reason why I am applying to the Unreal Engine Fellowship. My aspiration is to be both storyteller and content creator. 
 
-Terrible Tick (see above photo) is a short piece that I would like to develop with Unreal Egine. The tick is an alien parasite (not a water tower) that wakes up, steps over houses, punches holes in roofs, and sucks up people. All seems lost until the tick gets to the cat-lady's house.   
+Terrible Tick (see above photo) is a short piece that I would like to develop with Unreal Engine. The tick is an alien parasite (not a water tower) that wakes up, steps over houses, punches holes in roofs, and sucks up people. All seems lost until the tick gets to the cat-lady's house.   
 
 Thank you for your software and for offering this program. 
 
